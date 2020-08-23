@@ -1,0 +1,72 @@
+
+
+body{
+
+	background-color: black;
+	text-align: center;
+
+}
+
+
+h1{
+
+	color:yellow;
+	font-size: 4em;
+	font-family: serif;
+}
+
+h2{
+
+	color:orange;
+	font-size: 3em;
+	font-family:serif;
+}
+
+span{
+
+	color:yellow;
+	font-size: 1em;
+	font-family: serif;
+
+
+}
+
+p{
+	color:white;
+	font-size: 2em;
+	font-family: serif;
+
+}
+
+h3{
+
+	color:orange;
+	font-size: 3em;
+	font-family: serif;
+}
+
+
+h4{
+
+	color: white;
+	font-size: :5em;
+	font-family: serif;
+}
+
+h5{
+	color:#FF7D33;
+	font-family: serif;
+	font-size: 4em;
+}
+
+h6{
+
+	color: red;
+	font-family: serif;
+	font-size: 2em;
+}
+
+.redes{
+
+	padding: 30px;
+}
